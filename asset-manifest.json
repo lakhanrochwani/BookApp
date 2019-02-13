@@ -1,0 +1,11 @@
+{
+  "main.js": "/BookApp/static/js/main.e4410486.chunk.js",
+  "main.js.map": "/BookApp/static/js/main.e4410486.chunk.js.map",
+  "static/js/1.9c045fed.chunk.js": "/BookApp/static/js/1.9c045fed.chunk.js",
+  "static/js/1.9c045fed.chunk.js.map": "/BookApp/static/js/1.9c045fed.chunk.js.map",
+  "runtime~main.js": "/BookApp/static/js/runtime~main.0737be9c.js",
+  "runtime~main.js.map": "/BookApp/static/js/runtime~main.0737be9c.js.map",
+  "index.html": "/BookApp/index.html",
+  "precache-manifest.581f8931faf75fd00a872f8312c75cad.js": "/BookApp/precache-manifest.581f8931faf75fd00a872f8312c75cad.js",
+  "service-worker.js": "/BookApp/service-worker.js"
+}
